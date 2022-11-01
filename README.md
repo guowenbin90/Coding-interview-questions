@@ -1,3 +1,4 @@
 # Coding-interview-questions
 https://www.algoexpert.io/questions
-- Two Number Sum
+- Selection Sort
+- Quick sort
