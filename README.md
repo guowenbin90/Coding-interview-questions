@@ -5,3 +5,5 @@ https://leetcode.com/problemset/all/
 - Quick sort
 - Merge sort
 - Binary search (can be used to find the closest number)
+
+Queue, Stack and LinkedList
