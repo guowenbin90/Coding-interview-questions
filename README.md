@@ -6,4 +6,6 @@ https://leetcode.com/problemset/all/
 - Merge sort
 - Binary search (can be used to find the closest number)
 
-Queue, Stack and LinkedList
+Queue, Stack and LinkedList  
+Queue: FIFO  
+Stack: LIFO  
