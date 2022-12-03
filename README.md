@@ -7,5 +7,5 @@ https://leetcode.com/problemset/all/
 - Binary search (can be used to find the closest number)
 
 Queue, Stack and LinkedList  
-Queue: FIFO  
-Stack: LIFO  
+Queue: FIFO = First in first out  
+Stack: LIFO = Last in first out
