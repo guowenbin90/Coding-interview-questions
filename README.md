@@ -10,4 +10,5 @@ Queue, Stack and LinkedList
 Queue: FIFO = First in first out  
 Stack: LIFO = Last in first out
 
-Binary Tree & Binary Search Tree
+Binary Tree & Binary Search Tree  
+-Balanced binary tree
