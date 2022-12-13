@@ -6,9 +6,11 @@ https://leetcode.com/problemset/all/
 - Merge sort
 - Binary search (can be used to find the closest number)
 
-Queue, Stack and LinkedList  
+3. Queue, Stack and LinkedList  
 Queue: FIFO = First in first out  
 Stack: LIFO = Last in first out
 
-Binary Tree & Binary Search Tree  
--Balanced binary tree
+4. Binary Tree & Binary Search Tree  
+- Balanced binary tree
+- Complete binary tree
+- Binary search tree
