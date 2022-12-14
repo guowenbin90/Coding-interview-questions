@@ -14,3 +14,5 @@ Stack: LIFO = Last in first out
 - Balanced binary tree
 - Complete binary tree
 - Binary search tree
+
+5. Heap & Graph Search Algorithm
