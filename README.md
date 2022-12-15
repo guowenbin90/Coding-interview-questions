@@ -6,18 +6,18 @@ https://leetcode.com/problemset/all/
 - Merge sort
 - Binary search (can be used to find the closest number)
 
-3. Queue, Stack and LinkedList  
+## Queue, Stack and LinkedList  
 Queue: FIFO = First in first out  
 Stack: LIFO = Last in first out
 
-4. Binary Tree & Binary Search Tree  
+## Binary Tree & Binary Search Tree  
 - Balanced binary tree
 - Complete binary tree
 - Binary search tree
 
-5. Heap & Graph Search Algorithm  
+## Heap & Graph Search Algorithm  
 
-- Heap Property:  
+Heap Property:  
 - every element of the tree is larger than any of its descendants if they exists.
 - complete binary tree
 - Max Heap, Min Heap
