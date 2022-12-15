@@ -16,3 +16,10 @@ Stack: LIFO = Last in first out
 - Binary search tree
 
 5. Heap & Graph Search Algorithm
+Property:
+- every element of the tree is larger than any of its descendants if they exists.
+- complete binary tree
+- Max Heap, Min Heap
+- Index of lchild= index of parent X*2 +1
+- Index of rchild= index of parent X*2 +2
+- Unsorted but follow rules above
