@@ -15,8 +15,9 @@ Stack: LIFO = Last in first out
 - Complete binary tree
 - Binary search tree
 
-5. Heap & Graph Search Algorithm
-Property:
+5. Heap & Graph Search Algorithm  
+
+- Heap Property:  
 - every element of the tree is larger than any of its descendants if they exists.
 - complete binary tree
 - Max Heap, Min Heap
