@@ -23,10 +23,11 @@ Heap Property:
 - Max Heap, Min Heap
 - Index of lchild= index of parent X*2 +1
 - Index of rchild= index of parent X*2 +2
-- Unsorted but follow rules above
+- Unsorted but follow rules above  
+
 Heap operation:
 - insert: O(logn)
 - update：O(logn)
 - get/top：O(1)
 - pop：O(logn)
-- Heapify：unsorted array to Heap, O(n)
+- heapify：unsorted array to Heap, O(n)
