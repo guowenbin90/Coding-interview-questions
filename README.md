@@ -1,6 +1,13 @@
 # Coding-interview-questions
 https://www.algoexpert.io/questions  
 https://leetcode.com/problemset/all/
+
+## Steps
+1. Document your assumptions
+2. Explain your approach and how you intend to solve the problem
+3. Provide code comments where applicable
+
+
 - Selection Sort
 - Quick sort
 - Merge sort
