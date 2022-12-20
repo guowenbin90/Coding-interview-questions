@@ -4,9 +4,11 @@ https://leetcode.com/problemset/all/
 
 ## Steps
 1. Document your assumptions
-2. Explain your approach and how you intend to solve the problem
-3. Provide code comments where applicable
-
+2. Explain your approach
+3. Provide code comments
+4. Explain the big-O
+5. Identify any additional data structures
+6. Only provide your best answer
 
 - Selection Sort
 - Quick sort
