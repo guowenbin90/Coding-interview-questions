@@ -36,7 +36,7 @@ Heap Property:
 
 Heap operation:
 - insert: O(logn)
-- update：O(logn)
-- get/top：O(1)
-- pop：O(logn)
+- update: O(logn)
+- get/top: O(1)
+- pop: O(logn)
 - heapify：unsorted array to Heap, O(n)
