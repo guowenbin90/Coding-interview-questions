@@ -39,4 +39,4 @@ Heap operation:
 - update: O(logn)
 - get/top: O(1)
 - pop: O(logn)
-- heapify：unsorted array to Heap, O(n)
+- heapify: unsorted array to Heap, O(n)
