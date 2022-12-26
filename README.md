@@ -13,6 +13,7 @@ https://leetcode.com/problemset/all/
 - Selection Sort
 - Quick sort
 - Merge sort
+- Call stack
 - Binary search (can be used to find the closest number)
 
 ## Queue, Stack and LinkedList  
