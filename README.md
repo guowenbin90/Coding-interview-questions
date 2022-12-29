@@ -14,7 +14,8 @@ https://leetcode.com/problemset/all/
 - Quick sort
 - Merge sort
 - Call stack
-- Binary search (can be used to find the closest number)
+## Binary search 
+(can be used to find the closest number)
 
 ## Queue, Stack and LinkedList  
 Queue: FIFO = First in first out  
