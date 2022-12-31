@@ -43,5 +43,6 @@ Heap operation:
 - pop: O(logn)
 - heapify: unsorted array to Heap, O(n)
 
-Graph search：
+Graph search： 
+- Breadth-first search (BFS-1)
 
