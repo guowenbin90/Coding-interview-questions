@@ -26,7 +26,7 @@ Stack: LIFO = Last in first out
 - Complete binary tree
 - Binary search tree
 
-## Heap & Graph Search Algorithm  
+## Heap Search Algorithm  
 
 Heap Property:  
 - every element of the tree is larger than any of its descendants if they exists.
@@ -43,7 +43,11 @@ Heap operation:
 - pop: O(logn)
 - heapify: unsorted array to Heap, O(n)
 
-Graph search： 
-- Breadth-first search (BFS-1)
-- Best first search (BFS-2)
-- Depth-first search (DFS)
+## Graph Search Algorithm   
+### Breadth-first search (BFS-1)
+Determine whether a binary tree is a complete binary tree
+### Best first search (BFS-2)
+Dijkstra’s Algorithm 
+### Depth-first search (DFS)
+1. print all subsets of a set
+2. print all valid permutations of () () ()
