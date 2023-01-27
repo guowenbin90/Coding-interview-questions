@@ -51,3 +51,5 @@ Dijkstra’s Algorithm
 ### Depth-first search (DFS)
 1. print all subsets of a set
 2. print all valid permutations of () () ()
+
+## Hash Table
