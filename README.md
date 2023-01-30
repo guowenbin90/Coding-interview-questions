@@ -53,3 +53,5 @@ Dijkstra’s Algorithm
 2. print all valid permutations of () () ()
 
 ## Hash Table
+- Hash set <key1, key2>
+- Hash map <key, value>
