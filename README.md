@@ -55,3 +55,12 @@ Dijkstra’s Algorithm
 ## Hash Table
 - Hash set <key1, key2>
 - Hash map <key, value>
+
+## String
+1. Removal  
+    1.1 remove some particular chars from a string  
+	  1.2 remove all leading/trailing/duplicated empty spaces from a string
+2. De-duplication     aaaaabbbbb_ccc → ab_c
+3. Replace empty space  “ “ with “20%”
+4. Reversal (swap)  
+5. Substring finding
