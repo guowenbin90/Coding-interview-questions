@@ -63,4 +63,8 @@ Dijkstra’s Algorithm
 2. De-duplication     aaaaabbbbb_ccc → ab_c
 3. Replace empty space  “ “ with “20%”
 4. Reversal (swap)  
-5. Substring finding
+5. Substring finding  
+6. Move letters around e.g. ABCD1234 → A1B2C3D4
+7. Permutation (use DFS)
+8. Decoding encoding   aaaabcc → a4b1c2
+
