@@ -67,4 +67,4 @@ Dijkstra’s Algorithm
 6. Move letters around e.g. ABCD1234 → A1B2C3D4
 7. Permutation (use DFS)
 8. Decoding encoding   aaaabcc → a4b1c2
-
+9. Longest substring that contains only unique chars
