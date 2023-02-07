@@ -68,3 +68,4 @@ Dijkstra’s Algorithm
 7. Permutation (use DFS)
 8. Decoding encoding   aaaabcc → a4b1c2
 9. Longest substring that contains only unique chars
+10. Matching (*.?)
