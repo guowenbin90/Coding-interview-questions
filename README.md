@@ -52,6 +52,9 @@ Dijkstra’s Algorithm
 1. print all subsets of a set
 2. print all valid permutations of () () ()
 
+Basic solution:
+- What does it store on each level?
+- How many different states should we try to put on this level?
 ## Hash Table
 - Hash set <key1, key2>
 - Hash map <key, value>
