@@ -47,7 +47,8 @@ Heap operation:
 ### Breadth-first search (BFS-1)
 Determine whether a binary tree is a complete binary tree
 ### Best first search (BFS-2)
-Dijkstra’s Algorithm 
+Dijkstra’s Algorithm  
+Usages: Find the shortest path cost from a single node (source node) to any other nodes in that graph
 ### Depth-first search (DFS)
 1. print all subsets of a set
 2. print all valid permutations of () () ()
