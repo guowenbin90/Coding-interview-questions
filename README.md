@@ -21,6 +21,10 @@ https://leetcode.com/problemset/all/
 Queue: FIFO = First in first out  
 Stack: LIFO = Last in first out
 
+LinkedList key points:
+- When you want to de-reference a ListNode, make sure it is not a NULL pointer
+- Never ever lost the control of the head pointer of the LinkedList
+
 ## Binary Tree & Binary Search Tree  
 - Balanced binary tree
 - Complete binary tree
