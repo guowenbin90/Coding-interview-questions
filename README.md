@@ -19,7 +19,8 @@ https://leetcode.com/problemset/all/
 
 ## Queue, Stack and LinkedList  
 Queue: FIFO = First in first out  
-Stack: LIFO = Last in first out
+Stack: LIFO = Last in first out  
+push{}, pop{}, top{}
 
 LinkedList key points:
 - When you want to de-reference a ListNode, make sure it is not a NULL pointer
