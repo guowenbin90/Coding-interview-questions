@@ -27,6 +27,8 @@ LinkedList key points:
 - Never ever lost the control of the head pointer of the LinkedList
 
 ## Binary Tree & Binary Search Tree  
+Applications: social networks analysis, information indexing
+
 - Balanced binary tree
 - Complete binary tree
 - Binary search tree
