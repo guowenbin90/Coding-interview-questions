@@ -83,3 +83,5 @@ Basic solution:
 9. Longest substring that contains only unique chars
 10. Matching (*.?)
 ## Bit Representation
+Unsigned int 64 bits	2^64 -1
+Int 32bits		2^32 -1
