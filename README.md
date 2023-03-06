@@ -87,3 +87,4 @@ Basic solution:
 - Int 32bits		2^32 -1
 - & AND vs if(true1 && true2)
 - | OR  vs if(true1 || true2) 
+- ~ NOT
