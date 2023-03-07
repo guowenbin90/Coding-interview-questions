@@ -88,3 +88,4 @@ Basic solution:
 - & AND vs if(true1 && true2)
 - | OR  vs if(true1 || true2) 
 - ~ NOT
+- ^ XOR 
