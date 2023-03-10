@@ -89,3 +89,4 @@ Basic solution:
 - | OR  vs if(true1 || true2) 
 - ~ NOT
 - ^ XOR 
+- << left shift: add 0 on the right side
