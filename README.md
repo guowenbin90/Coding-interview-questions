@@ -90,3 +90,4 @@ Basic solution:
 - ~ NOT
 - ^ XOR 
 - << left shift: add 0 on the right side
+- >> right shift: add 0 on the left side
