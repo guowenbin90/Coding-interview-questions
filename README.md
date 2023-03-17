@@ -33,6 +33,8 @@ Applications: social networks analysis, information indexing
 - Complete binary tree
 - Binary search tree
 
+1. GetHeight of a binary tree
+
 ## Heap Search Algorithm  
 
 Heap Property:  
