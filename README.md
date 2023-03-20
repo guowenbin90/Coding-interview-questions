@@ -33,7 +33,8 @@ Applications: social networks analysis, information indexing
 - Complete binary tree
 - Binary search tree
 
-1. GetHeight of a binary tree
+1. Get Height of a binary tree
+2. Determine whether a binary tree is a balanced binary tree
 
 ## Heap Search Algorithm  
 
