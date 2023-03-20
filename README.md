@@ -35,6 +35,7 @@ Applications: social networks analysis, information indexing
 
 1. Get Height of a binary tree
 2. Determine whether a binary tree is a balanced binary tree
+3. Judge whether a binary tree is symmetric
 
 ## Heap Search Algorithm  
 
