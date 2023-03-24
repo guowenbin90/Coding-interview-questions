@@ -55,6 +55,8 @@ Heap operation:
 - pop: O(logn)
 - heapify: unsorted array to Heap, O(n)
 
+1. Find smallest k elements from an unsorted array of size n
+
 ## Graph Search Algorithm   
 ### Breadth-first search (BFS-1)
 Determine whether a binary tree is a complete binary tree
