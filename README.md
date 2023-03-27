@@ -98,3 +98,5 @@ Basic solution:
 - ^ XOR 
 - "<<" left shift: add 0 on the right side
 - ">>" right shift: add 0 on the left side
+
+1. determine whether a number x is a power of 2 (x==2^n)  n>0
