@@ -100,3 +100,4 @@ Basic solution:
 - ">>" right shift: add 0 on the left side
 
 1. determine whether a number x is a power of 2 (x==2^n)  n>0
+2. determine the number of bits that are different between two positive integers
