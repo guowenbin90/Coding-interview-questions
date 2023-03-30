@@ -101,3 +101,4 @@ Basic solution:
 
 1. determine whether a number x is a power of 2 (x==2^n)  n>0
 2. determine the number of bits that are different between two positive integers
+3. assign a negative number to an unsigned integer
